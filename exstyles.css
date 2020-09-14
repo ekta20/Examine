@@ -1,5 +1,5 @@
    body{font-family: 'Lato', sans-serif;}
-  .bgimg{background-image: url('/home/ekta/Downloads/bgimg.jpg');
+  .bgimg{background-image: url('https://user-images.githubusercontent.com/61902012/93052422-c08f8000-f683-11ea-9231-6e69858aca3f.jpg');
     background-repeat: no-repeat;
 
 
@@ -110,7 +110,7 @@ z-index:+1;}
       z-index:+1;
     border:0px solid black;
       border-radius:30px;}
-  #about{background-image: url('/home/ekta/Downloads/aboutt.png');
+  #about{background-image: url('https://user-images.githubusercontent.com/61902012/93052461-cf763280-f683-11ea-9714-d884ec154ed5.png');
     background-repeat: no-repeat;
     margin-top: -60px;
     height:686px;
@@ -122,7 +122,7 @@ z-index:+1;}
     #abouttxt{text-align: center;font-family: 'Ubuntu', sans-serif;
     padding-top: 50px;
   color:#006a6a}
-    #contact{background-image: url('/home/ekta/Downloads/bg.png');
+    #contact{background-image: url('https://user-images.githubusercontent.com/61902012/93052489-dc932180-f683-11ea-9cdd-88b2c8356aed.png');
       background-repeat: no-repeat;
       background-size: cover;
       margin-top: -20px;
