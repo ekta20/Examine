@@ -41,7 +41,7 @@ padding-left: 400px;font-family: 'Ubuntu', sans-serif;}
   #button {border:0.2px solid black;
     border-radius:30px;
     width:200px;
-
+text-decoration:none;
     background-size:200px,0px;
     background-position:left,left;
     background-repeat:no-repeat;
