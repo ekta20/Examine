@@ -1,0 +1,167 @@
+   body{font-family: 'Lato', sans-serif;}
+  .bgimg{background-image: url('/home/ekta/Downloads/bgimg.jpg');
+    background-repeat: no-repeat;
+
+
+    background-size: cover;
+    margin-top:-50px;}
+  .hello{z-index:+1;
+  position:sticky;
+  margin-bottom: 20px;font-family: 'Lato', sans-serif;}
+
+  #hometxt{position:relative;
+  padding-top: 400px;
+padding-left: 400px;font-family: 'Ubuntu', sans-serif;}
+  ul.first{overflow:hidden;
+
+  list-style-type:none;
+  background-color:#fafafa;
+  padding:0;
+  margin:auto;
+
+  margin-right: 35px;
+  width:400px;}
+  li.second{ float:left;
+    height:60px;
+  }
+  li.second a {padding:20px;
+  display:block;
+  cursor:pointer;
+  color:black;
+  text-decoration:none;
+  text-align:center;}
+  li.second a:hover{color:#006a6a;
+  }
+  li.second a:active{color:#00c853;
+  }
+  #million{color:#006a6a;font-size: 2vw;font-family: 'Ubuntu', sans-serif;}
+  #billion{color:#006a6a;font-size: 2vw;font-family: 'Ubuntu', sans-serif;}
+
+
+  #button {border:0.2px solid black;
+    border-radius:30px;
+    width:200px;
+
+    background-size:200px,0px;
+    background-position:left,left;
+    background-repeat:no-repeat;
+  font-size:18px;
+  color:white;
+  padding:10px;
+  padding-top:15px;
+   width:135px
+   z-index:1;
+  }
+  #button::after{
+    content:"";
+    position:absolute;
+    margin-left:-129px;
+    margin-top:3px;
+    z-index:-1;
+    width:25%;
+    height:32px;
+    background-color:white;
+  }
+
+   #button:hover{color:black;font-family: 'Ubuntu', sans-serif;
+
+     z-index:-1;
+     top:50%;
+
+    }
+    span{font-size:5px;}
+    #button{margin-left: 550px;
+    margin-top: -45px;
+  background-color: #00c853;
+  text-align: center;
+
+color:#fafafa;}
+#button1{margin-left: 600px;font-family: 'Ubuntu', sans-serif;
+margin-top: 20px;
+background-color: #00c853;
+text-align: center;
+width:150px;
+padding:10px;
+padding-top:10px;
+padding-bottom:10px;
+color:#fafafa;
+  font-size:18px;
+border:0px solid black;
+  border-radius:30px;}
+  #logo{height:40px;
+  width:40px;
+position:relative;
+margin-top: -70px;
+margin-left: 10px;
+z-index:+1;}
+    #button2{margin-left: 450px;
+      margin-top: -20px;font-family: 'Ubuntu', sans-serif;
+      position:absolute;
+    background-color: #00c853;
+    text-align: center;
+    width:100px;
+    padding:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color:#fafafa;
+      font-size:16px;
+      left:250px;
+      top:38px;
+      z-index:+1;
+    border:0px solid black;
+      border-radius:30px;}
+  #about{background-image: url('/home/ekta/Downloads/aboutt.png');
+    background-repeat: no-repeat;
+    margin-top: -60px;
+    height:686px;
+  width:100%;
+
+    background-size: cover;
+    z-index:-1;
+    }
+    #abouttxt{text-align: center;font-family: 'Ubuntu', sans-serif;
+    padding-top: 50px;
+  color:#006a6a}
+    #contact{background-image: url('/home/ekta/Downloads/bg.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-top: -20px;
+      margin-bottom: -150px;
+      }
+      #frm1{text-align:center;}
+      #frm2{text-align:center;}
+      #contacttxt{text-align: center;font-family: 'Ubuntu', sans-serif;
+      padding-top: 30px;
+    color:#006a6a}
+    #desc{color:black;
+    padding-left: 600px;font-family: 'Lato', sans-serif;
+  padding-top:-55px;
+padding-right: 100px;}
+
+form{
+margin-top:30px;
+margin-left:450px;
+}
+label{color:black;
+font-size:25px;
+margin-left: -350px;font-family: 'Ubuntu', sans-serif;
+}
+input{width:115%;
+height:40px;
+margin-top:8px;
+font-size:30px;
+font-family: 'Source Sans Pro', sans-serif;
+
+background-color: white;
+color:white;
+padding-left:10px;
+border:0px solid black;
+  border-radius:10px;
+}
+.colm{
+width:50%;
+margin-top:40px;
+}
+.onne{margin-bottom:60px;}
+#contactdes{text-align: center;font-family: 'Ubuntu', sans-serif;
+color:#006a6a;}
