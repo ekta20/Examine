@@ -1,0 +1,192 @@
+nav{
+  display: block;
+  margin-top: 5px;
+  height: 90px;
+  background-color: #fafafa;
+}
+div a{
+  display: inline-block;
+  height: 20px;
+  width: 110px;
+  padding: 5px;
+  text-decoration: none;
+  color: #006A6A;
+  text-align: center;
+  font-size: 120%;
+  margin-left: 3%;
+  font-family:Arial;
+  font-weight: bold;
+}
+nav img{
+  height: 80px;
+  width: 80px;
+}
+.logo{
+  display: inline-block;
+  width: 85px;
+  height: 85px;
+  float: left;
+  margin-left: 15px;
+}
+.nav{
+  display: inline-block;
+  padding-top: 25px;
+  margin-left: 40%;
+  width: 50%;
+  float: left;
+}
+.active{
+  border-bottom: 4px solid #00C853;
+  color:#00C853;
+}
+button{
+  background-color: #00C853;
+  font-weight: bold;
+  font-size: 120%;
+  color: #006A6A;
+  border-radius: 20px;
+  color: #fafafa;
+  width: 120px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 260px;
+  margin-bottom: 20px;
+}
+section{
+  background-image: url("../image/bg.png");
+  margin-top: 0px;
+  background-size: cover;
+}
+body{
+  padding: 5px;
+}
+.container h1{
+  margin-top: 5px;
+  padding-top: 15px;
+  color: #006A6A;
+  font-size: 250%;
+  text-align: center;
+  font-family: "Arial Rounded MT";
+}
+.container h3{
+  color: #006A6A;
+  font-size: 140%;
+  text-align: center;
+  font-family: "Arial Rounded MT";
+}
+label{
+  font-family: Arial;
+  color: #212121;
+  margin-left: 10px;
+  font-size: 120%;
+}
+input[type=text]{
+  width: 250px;
+  height: 30px;
+  margin: 10px;
+  padding:5px;
+  border-radius: 5px;
+  border-color: 1px solid #616161;
+}
+#age{
+  width: 60px;
+}
+input[type=radio]
+{
+  margin-left: 10px;
+}
+.form{
+  display: inline-block;
+  width: 50%;
+  margin-left: 30%;
+  margin-top: 5%;
+}
+#text{
+  font-family: Arial;
+  font-size: 300%;
+  text-align: center;
+}
+#testinput{
+  height: 40px;
+  width: 350px;
+  margin-left: 570px;
+}
+.button2{
+  margin-top: 40px;
+  margin-left: 700px;
+  margin-bottom: 100px;
+}
+.progress{
+  display: inline-block;
+  background-color: #fafafa;
+  width: 80%;
+  height: 12px;
+  margin: 0 auto;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.progress-bar{
+  width: 60%;
+  background-color: #00C853;
+  height: 12px;
+  border-radius: 10px;
+}
+#copy{
+  margin-top: 70px;
+}
+#labelProgress{
+  font-size: 140%;
+  margin-left: 50px;
+}
+#eyeresult{
+  font-family: Arial;
+  font-size: 200%;
+  text-align: center;
+  color: #212121;
+  margin-top: 100px;
+}
+.button3{
+  width: 200px;
+  margin-left: 600px;
+}
+#eyeresButton, #earresButton{
+  margin-bottom: 100px;
+}
+#testinputear{
+  height: 40px;
+  width: 370px;
+  margin-left: 570px;
+  margin-top: 40px;
+}
+#play-audio{
+  display: block;
+  width: 160px;
+  height: 40px;
+  background-color: #00C853;
+  margin: 0 auto;
+  border-radius: 30px;
+  color: #fafafa;
+  border: 1px solid #212121;
+}
+#play-audio p{
+  display: inline-block;
+  width: 100px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-family: Arial;
+  font-size: 120%;
+  padding-bottom: 8px;
+}
+#play-audio img{
+  width: 25px;
+  height: 25px;
+  padding-top: 5px;
+}
+#earresult{
+  font-family: Arial;
+  font-size: 200%;
+  text-align: center;
+  color: #212121;
+  margin-top: 100px;
+}
